@@ -1,0 +1,29 @@
+Discover      -   https://github.com/leebaird/discover
+Knock         -   https://github.com/guelfoweb/knock
+SubBrute      -   https://github.com/TheRook/subbrute
+Aquatone      -   https://github.com/michenriksen/aquatone
+Recon-ng      -   https://bitbucket.org/LaNMaSteR53/recon-ng
+Altdns        -   https://github.com/infosec-au/altdns
+Masscan       -   https://github.com/robertdavidgraham/masscan
+Sn1per        -   https://github.com/1N3/Sn1per
+Truffle Hog   -   https://github.com/dxa4481/truffleHog
+wafw00f       -   https://github.com/EnableSecurity/wafw00f
+Gobuster      -   https://github.com/OJ/gobuster
+Dirsearch     -   https://github.com/maurosoria/dirsearch
+Onioff        -   https://github.com/k4m4/onioff
+Lazyrecon     -   https://github.com/nahamsec/lazyrecon
+Tor           -   apt install tor tor-geoipdb torsocks torcs
+Gitminer      -   https://github.com/UnkL4b/GitMiner
+
+
+
+Browser Plugins:
+  Wappalyzer
+  FoxyProxy
+
+
+
+
+Realktek Drivers (AWUS036ACH)
+apt install realtek-rtl88xxau-dkms
+
