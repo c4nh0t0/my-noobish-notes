@@ -15,6 +15,7 @@ Lazyrecon             -   https://github.com/nahamsec/lazyrecon
 Tor                   -   apt install tor tor-geoipdb torsocks torcs
 Gitminer              -   https://github.com/UnkL4b/GitMiner
 nuclei                -   https://github.com/projectdiscovery/nuclei
+reNgine               -   https://github.com/yogeshojha/rengine
 XSStrike              -   https://github.com/s0md3v/XSStrike
 wordlist_generator    -   https://github.com/SomeKirill/wordlist_generator
 H1 Wordlist           -   https://github.com/xyele/hackerone_wordlist
