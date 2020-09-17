@@ -21,9 +21,12 @@ wordlist_generator    -   https://github.com/SomeKirill/wordlist_generator
 H1 Wordlist           -   https://github.com/xyele/hackerone_wordlist
 Arjun                 -   https://github.com/s0md3v/Arjun
 go-dork               -   https://github.com/dwisiswant0/go-dork
+ffuf                  -   https://github.com/ffuf/ffuf
+gau                   -   https://github.com/lc/gau
 Browser Plugins:
   Wappalyzer
   FoxyProxy
+WordLists:
 
 
 
