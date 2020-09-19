@@ -25,6 +25,7 @@ ffuf                  -   https://github.com/ffuf/ffuf
 gau                   -   https://github.com/lc/gau
 Parth                 -   https://github.com/s0md3v/Parth
 GoSpider              -   https://github.com/jaeles-project/gospider
+httpx                 -   https://github.com/projectdiscovery/httpx
 Browser Plugins:
   Wappalyzer
   FoxyProxy
