@@ -30,6 +30,7 @@ httpx                 -   https://github.com/projectdiscovery/httpx
 hakrawler             -   https://github.com/hakluke/hakrawler
 Amass                 -   https://github.com/OWASP/Amass
 shuffleDNS            -   https://github.com/projectdiscovery/shuffledns
+anew                  -   https://github.com/tomnomnom/anew
 Browser Plugins:
   Wappalyzer
   FoxyProxy
