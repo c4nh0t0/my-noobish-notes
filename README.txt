@@ -34,6 +34,7 @@ Amass                 -   https://github.com/OWASP/Amass
 shuffleDNS            -   https://github.com/projectdiscovery/shuffledns
 anew                  -   https://github.com/tomnomnom/anew
 Subzy                 -   https://github.com/LukaSikic/subzy
+Domained              -   https://github.com/TypeError/domained
 Browser Plugins:
   Wappalyzer
   FoxyProxy
