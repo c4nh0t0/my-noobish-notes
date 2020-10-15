@@ -37,6 +37,7 @@ Subzy                 -   https://github.com/LukaSikic/subzy
 Domained              -   https://github.com/TypeError/domained
 CORScanner            -   https://github.com/chenjj/CORScanner
 ysoserial             -   https://github.com/frohoff/ysoserial
+ysoserial.NET         -   https://github.com/pwntester/ysoserial.net
 Browser Plugins:
   Wappalyzer
   FoxyProxy
