@@ -1,0 +1,21 @@
+##### General Tamper Scripts:
+apostrophemask.py
+apostrophenullencode.py
+base64encode.py
+between.py
+chardoubleencode.py                   - useful against weak WAFs or misconfigured ones.
+charencode.py                         - useful against weak WAFs or misconfigured ones.
+charunicodeencode.py                  - useful against weak WAFs or misconfigured ones.
+equaltolike.py                        - useful against weak WAFs, misconfigured ones or WAFs that block = character.
+greatest.py                           - useful against weak WAFs, misconfigured ones or WAFs that block > character.
+ifnull2ifisnull.py                    - useful against weak WAFs, misconfigured ones or WAFs that block IFNULL() function.
+multiplespaces.py                     - useful against weak WAFs or misconfigured ones.
+randomcase.py                         - useful against weak WAFs or misconfigured ones.
+space2comment.py                      - useful against weak WAFS, misconfigured ones and replaces ( space ) with comments /**/.
+space2plus.py                         - replaces ( space ) with + character.
+space2random.py                       - replaces ( space ) with random blank character.
+unionalltounion.py                    - replaces UNION ALL SELECT with UNION SELECT.
+unmagicquotes.py                      - replaces ' character with a multi-byte combo %BF%27 together with generic comment at the end.
+xforwardedfor.py                      - append fake HTTP Header X-Forwarded-For to bypass application based WAFs.
+
+##### Microsoft SQL Server (MSSQL):
